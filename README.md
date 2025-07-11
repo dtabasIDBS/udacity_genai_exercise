@@ -24,3 +24,5 @@ Then, I have some functions for creating the different pieces neccessary for hav
 ### Instanciating everything
 I instantiate the chain that I defined in the previous section. I set the Chroma db as a retriever, configuring it to perform similarity search and getting maximum 5 elements. 
 Then I invoke it and I print the results.
+## Considerations
+I'm saving the notebook with the output of an execution to demonstrate how the output should look like.
